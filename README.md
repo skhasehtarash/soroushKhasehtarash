@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![soroushKhasehtarash,s GitHub stats](https://github-readme-stats.vercel.app/api?username=soroushKhasehtarash&theme=greenhow_icons=green)
-
 
 
 
