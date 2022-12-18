@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![soroushKhasehtarash,s GitHub stats](https://github-readme-stats.vercel.app/api?username=soroushKhasehtarash&theme=blackshow_icons=true)
+![soroushKhasehtarash,s GitHub stats]theme&green(https://github-readme-stats.vercel.app/api?username=soroushKhasehtarash&theme=blackshow_icons=true)
 
 
    
