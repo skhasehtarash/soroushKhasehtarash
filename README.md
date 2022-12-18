@@ -1,6 +1,4 @@
-### Hi there 👋
 
-  
 <!-- GitHub readme stats https://github.com/soroushKhasehtarash/github-readme-stats -->
 <div align="center">
   <a href="https://github.com/soroushKhasehtarash#user-activity-overview">
