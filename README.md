@@ -1,2 +1,1 @@
-
-file:///C:/Users/rkhas/OneDrive/Favorites/Pictures/Untitled-1.png
+https://s2.uupload.ir/files/untitled-1_7m47.png
