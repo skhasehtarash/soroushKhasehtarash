@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Matary1">
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,li" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,xd" />
   </a>
 </p>
 </h1>
