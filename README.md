@@ -4,7 +4,7 @@ Connect To Me
 
 <p align="center">
   <a href="https://github.com/Matary1">
-    <img src="https://skillicons.dev/icons?i=discord,instagram,twitter,github,email" />
+    <img src="https://skillicons.dev/icons?i=discord,instagram,twitter,github,Gmail" />
   </a>
 </p>
     
