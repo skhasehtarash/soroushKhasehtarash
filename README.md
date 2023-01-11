@@ -17,5 +17,5 @@
 
 ## My Maps
 
-* Owner
+* Owner @Nox
 * Admin
