@@ -17,5 +17,5 @@
 
 ## My Maps
 
-* Owner @Nox
-* Admin
+* Owner https://github.com/Start-new-nox
+* Admin https://github.com/StudyClassIR
