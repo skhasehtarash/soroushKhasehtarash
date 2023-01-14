@@ -17,5 +17,5 @@
 
 ## My Role
 
-* Owner https://github.com/Start-new-nox
-* Admin https://github.com/StudyClassIR
+* Owner (https://github.com/NoxClan)
+* Admin (https://github.com/StudyClassIR)
