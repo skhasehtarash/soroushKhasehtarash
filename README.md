@@ -22,4 +22,4 @@
     
 * Owner (https://github.com/NoxClan)
 * Admin (https://github.com/StudyClassIR)
-<h1/>
+
