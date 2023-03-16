@@ -1,7 +1,7 @@
 
-</h1>
+<h1 align="center">
 Hello there I am soroush khasehtarash welocme my github Md 
-<h align="center">
+<h1/>
  
 
 ![image](https://user-images.githubusercontent.com/120823949/225657366-f3cbe50c-cbdb-4ca7-b8ba-742a09b15013.png)
