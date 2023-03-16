@@ -9,8 +9,9 @@
 <h1 align="center">
      About Me
 <h1/>
- * Heya I am soroush khasehtarash  (he/him) ━ I from Iran and now I am learing html and css
-  
+ <h1>
+  Heya I am soroush khasehtarash  (he/him) ━ I from Iran and now I am learing html and css
+  <h1/>
 <h1 align="center">
      My Role 
 </h1>
